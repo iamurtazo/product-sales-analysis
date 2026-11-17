@@ -29,9 +29,9 @@ Supporting charts are saved in [`visuals/`](visuals).
 
 **Email** is the recommended primary method: it delivers the highest revenue efficiency (RPCE) with minimal team effort (~2 minutes per customer vs. 12–30 minutes for the other methods) and scales easily to a larger customer base.
 
-- 🥇 **Primary — Email:** most efficient, lowest effort, use as the default
-- 📞 **Secondary — Email + Call:** good middle ground, reserve for high-value prospects
-- ❌ **Not recommended — Call only:** lowest efficiency, highest effort, not scalable
+- **Primary — Email:** most efficient, lowest effort, use as the default
+- **Secondary — Email + Call:** good middle ground, reserve for high-value prospects
+- **Not recommended — Call only:** lowest efficiency, highest effort, not scalable
 
 ## Reports
 
